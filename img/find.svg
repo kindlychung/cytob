@@ -1,0 +1,18 @@
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" height="219.67" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 219.76277 219.66775" width="219.76" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs4">
+  <linearGradient id="linearGradient4711" x1="-1152.7" gradientUnits="userSpaceOnUse" y1="333.09" gradientTransform="matrix(.49155 0 0 .49155 -598.64 140.55)" x2="-1192.2" y2="336.45">
+   <stop id="stop4693" stop-color="#ffdf98" offset="0"/>
+   <stop id="stop4695" stop-color="#c6512b" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient4713" gradientUnits="userSpaceOnUse" cy="814.77" cx="-883.77" gradientTransform="matrix(.28634 -.87716 .78983 .25784 -1269.9 -168.25)" r="45.234">
+   <stop id="stop4253" stop-color="#f9f9f9" offset="0"/>
+   <stop id="stop4255" stop-color="#92e9f3" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g id="layer1" transform="translate(-207.58 -481.88)">
+  <g id="g4707" fill-rule="evenodd" transform="matrix(1.9232 -.59460 .59460 1.9232 1540.9 -1493)">
+   <rect id="rect2463" ry="8.961" transform="rotate(-30)" height="49.966" width="17.922" y="281.58" x="-1184.1" fill="url(#linearGradient4711)"/>
+   <circle id="path2461" cx="-892.72" stroke="#b2b2e3" cy="798.25" r="41.984" stroke-width="6.5" fill="url(#radialGradient4713)"/>
+  </g>
+ </g>
+</svg>
