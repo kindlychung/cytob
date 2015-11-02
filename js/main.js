@@ -124,7 +124,7 @@ var getCytoBand = function (chrSymbol, basePosition) {
     );
 }
 
-var popContent ="Chromosome and position seperated by ':'. If you have multiple queries, separate them by any non-digit character.</li>";
+var popContent ="Chromosome and position seperated by ':'. If you have multiple queries, separate them by any non-digit character.";
 
 $(document).ready(function(){
     $('[data-toggle="popover"]').popover({
